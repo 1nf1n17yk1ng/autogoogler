@@ -1,6 +1,6 @@
 # autogoogler
 
-💻 -1nf1n17yk1ng-
+💻 -k4u5h41-
 
 ## Simple Python Script to automate google search
 
